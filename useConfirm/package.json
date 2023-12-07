@@ -1,6 +1,6 @@
 {
   "name": "@noobs9090/use-confirm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "useConfirm 훅은 사용자의 확인을 요구하는 상황에서 사용됩니다. 이 훅은 confirm 대화 상자를 통해 사용자에게 메시지를 보여주고, 사용자의 응답에 따라 다른 행동을 취할 수 있도록 합니다.",
   "main": "index.js",
   "repository": {
@@ -10,7 +10,7 @@
   "keywords": [
     "react",
     "hooks",
-    "input"
+    "confirm"
   ],
   "author": "Tony <qkrdkwl9090@naver.com>",
   "license": "MIT",
