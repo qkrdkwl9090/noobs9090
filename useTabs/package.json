@@ -1,0 +1,24 @@
+{
+  "name": "@noobs9090/use-tabs",
+  "version": "1.0.0",
+  "description": "useTabs 훅은 탭 인터페이스를 구현하는 데 사용되며, 현재 선택된 탭의 상태를 관리하고 변경할 수 있는 기능을 제공합니다.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qkrdkwl9090/noobs9090.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "tabs"
+  ],
+  "author": "Tony <qkrdkwl9090@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qkrdkwl9090/noobs9090/issues"
+  },
+  "homepage": "https://github.com/qkrdkwl9090/noobs9090#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
