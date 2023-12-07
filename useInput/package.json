@@ -1,0 +1,24 @@
+{
+  "name": "@noobs9090/use-input",
+  "version": "1.0.0",
+  "description": "useInput은 입력값의 상태를 관리하고, 필요에 따라 입력값을 검증할 수 있는 함수를 제공합니다.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qkrdkwl9090/noobs9090.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "input"
+  ],
+  "author": "Tony <qkrdkwl9090@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qkrdkwl9090/noobs9090/issues"
+  },
+  "homepage": "https://github.com/qkrdkwl9090/noobs9090#readme",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
