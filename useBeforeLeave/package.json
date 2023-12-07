@@ -1,0 +1,25 @@
+{
+  "name": "@noobs9090/use-before-leave",
+  "version": "1.0.0",
+  "description": "useBeforeLeave 훅은 사용자의 마우스 포인터가 브라우저 창을 벗어나는 순간을 감지하고, 이에 대응하는 사용자 정의 행동을 수행하게 해주는 훅입니다. 이 훅은 mouseleave 이벤트를 활용하여 마우스 포인터가 브라우저 창 상단을 벗어날 때 호출됩니다.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qkrdkwl9090/noobs9090.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "before",
+    "leave"
+  ],
+  "author": "Tony <qkrdkwl9090@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qkrdkwl9090/noobs9090/issues"
+  },
+  "homepage": "https://github.com/qkrdkwl9090/noobs9090#readme",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
